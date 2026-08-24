@@ -1,0 +1,501 @@
+date,amount,category,merchant,type
+2026-01-01,-227.13,utilities,Electric Ireland,expense
+2026-01-02,1448.72,salary,Employer Ltd,income
+2026-01-02,-141.01,entertainment,Cinema World,expense
+2026-01-02,-299.39,transport,Irish Rail,expense
+2026-01-02,-142.2,utilities,Electric Ireland,expense
+2026-01-03,-180.43,dining,Starbucks,expense
+2026-01-03,-190.65,groceries,Tesco,expense
+2026-01-04,1370.95,refund,Tesco,income
+2026-01-04,-115.22,rent,Landlord Ltd,expense
+2026-01-05,321.05,salary,Employer Ltd,income
+2026-01-05,-172.77,subscription,Netflix,expense
+2026-01-06,-168.32,shopping,Penneys,expense
+2026-01-07,-175.85,subscription,Spotify,expense
+2026-01-08,2437.27,salary,Employer Ltd,income
+2026-01-08,947.83,salary,Employer Ltd,income
+2026-01-09,306.19,refund,Tesco,income
+2026-01-09,-161.99,dining,Local Cafe,expense
+2026-01-09,-241.23,utilities,Eir,expense
+2026-01-11,-98.26,transport,Dublin Bus,expense
+2026-01-12,521.87,refund,Amazon,income
+2026-01-12,-205.41,groceries,Aldi,expense
+2026-01-13,1298.08,salary,Employer Ltd,income
+2026-01-13,-121.0,groceries,Tesco,expense
+2026-01-14,-27.62,entertainment,Cinema World,expense
+2026-01-14,2265.19,refund,Amazon,income
+2026-01-15,-88.1,subscription,Spotify,expense
+2026-01-15,-271.9,groceries,Tesco,expense
+2026-01-15,-48.55,dining,Starbucks,expense
+2026-01-15,-139.43,utilities,Eir,expense
+2026-01-15,-77.97,dining,Starbucks,expense
+2026-01-17,-247.28,rent,Landlord Ltd,expense
+2026-01-17,-34.74,subscription,Netflix,expense
+2026-01-18,-170.0,shopping,Penneys,expense
+2026-01-18,-149.31,subscription,Spotify,expense
+2026-01-21,1567.75,freelance,Client Payment,income
+2026-01-21,-295.84,subscription,Netflix,expense
+2026-01-21,-288.47,transport,Dublin Bus,expense
+2026-01-21,-96.9,utilities,Electric Ireland,expense
+2026-01-21,-18.35,entertainment,Spotify,expense
+2026-01-22,107.02,freelance,Client Payment,income
+2026-01-22,829.37,freelance,Client Payment,income
+2026-01-24,-31.43,subscription,Netflix,expense
+2026-01-24,-21.74,entertainment,Spotify,expense
+2026-01-24,-124.31,rent,Landlord Ltd,expense
+2026-01-24,1741.47,freelance,Client Payment,income
+2026-01-25,-207.93,utilities,Electric Ireland,expense
+2026-01-26,1432.88,refund,Amazon,income
+2026-01-27,982.03,salary,Employer Ltd,income
+2026-01-27,-165.07,groceries,Tesco,expense
+2026-01-27,2461.79,refund,Tesco,income
+2026-01-27,-215.71,entertainment,Spotify,expense
+2026-01-28,-32.53,subscription,Spotify,expense
+2026-01-28,-150.61,rent,Landlord Ltd,expense
+2026-01-28,1289.95,salary,Employer Ltd,income
+2026-01-28,487.43,salary,Employer Ltd,income
+2026-01-28,1027.12,salary,Employer Ltd,income
+2026-01-29,414.22,salary,Employer Ltd,income
+2026-01-30,-259.41,transport,Dublin Bus,expense
+2026-01-30,-28.4,subscription,Spotify,expense
+2026-02-01,2345.55,freelance,Client Payment,income
+2026-02-02,-245.67,entertainment,Cinema World,expense
+2026-02-02,675.5,refund,Tesco,income
+2026-02-02,-71.65,groceries,Aldi,expense
+2026-02-02,-279.07,dining,Starbucks,expense
+2026-02-04,1804.57,freelance,Client Payment,income
+2026-02-04,1381.7,freelance,Client Payment,income
+2026-02-04,1727.59,salary,Employer Ltd,income
+2026-02-05,-299.07,entertainment,Cinema World,expense
+2026-02-05,1230.01,refund,Tesco,income
+2026-02-06,-58.36,transport,Dublin Bus,expense
+2026-02-06,-221.85,subscription,Netflix,expense
+2026-02-06,2444.79,refund,Tesco,income
+2026-02-07,-263.92,groceries,Aldi,expense
+2026-02-07,2332.39,refund,Tesco,income
+2026-02-07,-185.91,utilities,Eir,expense
+2026-02-08,2344.3,salary,Employer Ltd,income
+2026-02-08,1998.59,refund,Amazon,income
+2026-02-08,613.63,freelance,Client Payment,income
+2026-02-09,-105.66,shopping,Penneys,expense
+2026-02-10,1546.02,refund,Amazon,income
+2026-02-10,1237.08,refund,Tesco,income
+2026-02-11,300.42,refund,Tesco,income
+2026-02-11,-37.84,groceries,Lidl,expense
+2026-02-12,-39.16,utilities,Electric Ireland,expense
+2026-02-13,-29.26,entertainment,Cinema World,expense
+2026-02-13,-283.49,shopping,Penneys,expense
+2026-02-14,-124.39,rent,Landlord Ltd,expense
+2026-02-14,-154.97,subscription,Netflix,expense
+2026-02-15,-79.29,rent,Landlord Ltd,expense
+2026-02-15,-65.98,groceries,Lidl,expense
+2026-02-17,-33.12,dining,Starbucks,expense
+2026-02-17,-39.92,entertainment,Spotify,expense
+2026-02-17,-47.06,dining,Local Cafe,expense
+2026-02-17,-233.41,rent,Landlord Ltd,expense
+2026-02-17,-245.0,dining,Starbucks,expense
+2026-02-17,-158.51,dining,Starbucks,expense
+2026-02-18,-86.76,utilities,Electric Ireland,expense
+2026-02-18,494.52,refund,Tesco,income
+2026-02-19,972.34,refund,Tesco,income
+2026-02-19,-209.43,utilities,Electric Ireland,expense
+2026-02-20,446.93,refund,Tesco,income
+2026-02-20,-149.84,utilities,Electric Ireland,expense
+2026-02-20,2053.69,salary,Employer Ltd,income
+2026-02-20,-28.2,utilities,Electric Ireland,expense
+2026-02-21,842.85,salary,Employer Ltd,income
+2026-02-21,-95.92,rent,Landlord Ltd,expense
+2026-02-21,-19.26,utilities,Electric Ireland,expense
+2026-02-22,2482.76,salary,Employer Ltd,income
+2026-02-22,-229.72,rent,Landlord Ltd,expense
+2026-02-22,-22.3,subscription,Spotify,expense
+2026-02-22,-268.58,entertainment,Spotify,expense
+2026-02-23,366.44,salary,Employer Ltd,income
+2026-02-23,-278.37,entertainment,Cinema World,expense
+2026-02-23,-142.64,transport,Irish Rail,expense
+2026-02-23,-299.92,groceries,Tesco,expense
+2026-02-23,1932.27,salary,Employer Ltd,income
+2026-02-23,230.07,freelance,Client Payment,income
+2026-02-24,-37.77,transport,Irish Rail,expense
+2026-02-26,1652.49,refund,Tesco,income
+2026-02-27,-197.75,subscription,Netflix,expense
+2026-02-27,99.06,refund,Tesco,income
+2026-02-28,-26.1,transport,Irish Rail,expense
+2026-02-28,-77.25,transport,Luas,expense
+2026-03-01,-285.94,groceries,Tesco,expense
+2026-03-01,-73.54,transport,Dublin Bus,expense
+2026-03-01,-185.72,groceries,Tesco,expense
+2026-03-02,197.66,refund,Amazon,income
+2026-03-03,-217.3,entertainment,Cinema World,expense
+2026-03-03,167.83,freelance,Client Payment,income
+2026-03-03,-201.97,groceries,Tesco,expense
+2026-03-03,2174.13,freelance,Client Payment,income
+2026-03-04,859.35,refund,Amazon,income
+2026-03-04,-36.63,subscription,Netflix,expense
+2026-03-05,2100.56,freelance,Client Payment,income
+2026-03-06,-135.88,utilities,Eir,expense
+2026-03-07,-102.31,entertainment,Cinema World,expense
+2026-03-08,-75.37,shopping,Penneys,expense
+2026-03-08,2485.64,freelance,Client Payment,income
+2026-03-09,-13.15,transport,Dublin Bus,expense
+2026-03-09,-120.68,utilities,Electric Ireland,expense
+2026-03-10,169.52,refund,Amazon,income
+2026-03-11,1871.6,refund,Amazon,income
+2026-03-12,-115.18,groceries,Tesco,expense
+2026-03-12,1431.71,freelance,Client Payment,income
+2026-03-13,-98.74,rent,Landlord Ltd,expense
+2026-03-13,-40.74,dining,Starbucks,expense
+2026-03-14,-27.8,dining,Local Cafe,expense
+2026-03-16,125.1,freelance,Client Payment,income
+2026-03-16,248.14,salary,Employer Ltd,income
+2026-03-16,-268.12,entertainment,Spotify,expense
+2026-03-22,-263.37,rent,Landlord Ltd,expense
+2026-03-22,-185.18,transport,Dublin Bus,expense
+2026-03-22,507.09,freelance,Client Payment,income
+2026-03-23,2409.93,refund,Amazon,income
+2026-03-23,-177.76,utilities,Electric Ireland,expense
+2026-03-23,-85.74,rent,Landlord Ltd,expense
+2026-03-25,768.21,freelance,Client Payment,income
+2026-03-25,-180.52,rent,Landlord Ltd,expense
+2026-03-25,-209.64,groceries,Tesco,expense
+2026-03-27,-158.74,rent,Landlord Ltd,expense
+2026-03-27,-156.16,entertainment,Spotify,expense
+2026-03-28,-222.06,subscription,Spotify,expense
+2026-03-29,-185.91,rent,Landlord Ltd,expense
+2026-03-29,-74.22,subscription,Spotify,expense
+2026-03-29,1504.3,salary,Employer Ltd,income
+2026-03-30,-263.61,utilities,Electric Ireland,expense
+2026-03-30,-82.97,subscription,Spotify,expense
+2026-03-30,2065.84,salary,Employer Ltd,income
+2026-03-31,-98.84,utilities,Electric Ireland,expense
+2026-03-31,1717.12,freelance,Client Payment,income
+2026-03-31,-184.6,dining,Local Cafe,expense
+2026-03-31,-23.15,shopping,Penneys,expense
+2026-04-02,-176.54,utilities,Eir,expense
+2026-04-02,706.76,refund,Amazon,income
+2026-04-03,138.06,refund,Amazon,income
+2026-04-03,-132.84,dining,Starbucks,expense
+2026-04-03,-88.25,subscription,Spotify,expense
+2026-04-03,1537.38,refund,Amazon,income
+2026-04-05,1705.81,refund,Amazon,income
+2026-04-05,1154.73,freelance,Client Payment,income
+2026-04-06,61.35,salary,Employer Ltd,income
+2026-04-06,-225.65,utilities,Eir,expense
+2026-04-06,-285.22,utilities,Electric Ireland,expense
+2026-04-06,-40.02,dining,Local Cafe,expense
+2026-04-07,2100.68,salary,Employer Ltd,income
+2026-04-07,-10.62,dining,Local Cafe,expense
+2026-04-08,-21.27,utilities,Electric Ireland,expense
+2026-04-09,1843.3,freelance,Client Payment,income
+2026-04-09,-163.77,subscription,Netflix,expense
+2026-04-09,541.29,salary,Employer Ltd,income
+2026-04-09,-218.18,utilities,Electric Ireland,expense
+2026-04-09,192.5,salary,Employer Ltd,income
+2026-04-09,490.22,freelance,Client Payment,income
+2026-04-09,1331.51,freelance,Client Payment,income
+2026-04-10,1857.85,salary,Employer Ltd,income
+2026-04-11,1569.18,refund,Amazon,income
+2026-04-11,-218.26,shopping,Penneys,expense
+2026-04-13,-55.09,groceries,Tesco,expense
+2026-04-13,-239.35,groceries,Lidl,expense
+2026-04-13,-6.62,rent,Landlord Ltd,expense
+2026-04-13,-192.32,subscription,Netflix,expense
+2026-04-14,-127.62,dining,Starbucks,expense
+2026-04-14,-79.34,entertainment,Spotify,expense
+2026-04-14,818.63,freelance,Client Payment,income
+2026-04-14,-47.67,shopping,Amazon,expense
+2026-04-14,-214.99,shopping,Amazon,expense
+2026-04-14,2361.86,salary,Employer Ltd,income
+2026-04-14,-218.4,rent,Landlord Ltd,expense
+2026-04-16,-231.39,utilities,Electric Ireland,expense
+2026-04-17,-14.09,dining,Starbucks,expense
+2026-04-18,1131.75,refund,Tesco,income
+2026-04-18,1527.83,freelance,Client Payment,income
+2026-04-19,-263.73,rent,Landlord Ltd,expense
+2026-04-20,-121.52,groceries,Tesco,expense
+2026-04-21,-86.45,groceries,Aldi,expense
+2026-04-21,1394.35,salary,Employer Ltd,income
+2026-04-21,-183.55,entertainment,Spotify,expense
+2026-04-22,1818.62,refund,Amazon,income
+2026-04-22,566.12,salary,Employer Ltd,income
+2026-04-23,2177.27,salary,Employer Ltd,income
+2026-04-23,-225.5,transport,Luas,expense
+2026-04-23,1345.9,salary,Employer Ltd,income
+2026-04-23,1371.75,refund,Tesco,income
+2026-04-23,1634.33,salary,Employer Ltd,income
+2026-04-23,238.54,salary,Employer Ltd,income
+2026-04-24,887.1,refund,Tesco,income
+2026-04-25,-203.92,dining,Local Cafe,expense
+2026-04-26,-194.65,entertainment,Spotify,expense
+2026-04-26,-35.51,utilities,Eir,expense
+2026-04-26,-22.95,groceries,Lidl,expense
+2026-04-26,-122.77,entertainment,Spotify,expense
+2026-04-27,-110.15,rent,Landlord Ltd,expense
+2026-04-27,1667.48,salary,Employer Ltd,income
+2026-04-28,62.87,refund,Tesco,income
+2026-04-29,-106.53,rent,Landlord Ltd,expense
+2026-04-30,-131.8,utilities,Electric Ireland,expense
+2026-05-01,1347.67,freelance,Client Payment,income
+2026-05-01,-79.59,utilities,Electric Ireland,expense
+2026-05-02,-156.34,utilities,Eir,expense
+2026-05-03,-84.07,shopping,Amazon,expense
+2026-05-03,1688.18,freelance,Client Payment,income
+2026-05-04,-57.8,groceries,Aldi,expense
+2026-05-04,-9.84,utilities,Eir,expense
+2026-05-04,-243.43,subscription,Spotify,expense
+2026-05-04,-264.85,entertainment,Cinema World,expense
+2026-05-06,2456.71,freelance,Client Payment,income
+2026-05-07,2052.75,freelance,Client Payment,income
+2026-05-08,-292.01,rent,Landlord Ltd,expense
+2026-05-08,-220.0,groceries,Aldi,expense
+2026-05-08,-80.05,entertainment,Cinema World,expense
+2026-05-08,-68.57,utilities,Electric Ireland,expense
+2026-05-08,-31.29,groceries,Lidl,expense
+2026-05-08,432.6,refund,Tesco,income
+2026-05-09,1009.49,refund,Amazon,income
+2026-05-09,1564.48,freelance,Client Payment,income
+2026-05-09,-82.8,transport,Dublin Bus,expense
+2026-05-09,-151.04,transport,Dublin Bus,expense
+2026-05-09,-228.75,transport,Luas,expense
+2026-05-10,266.93,freelance,Client Payment,income
+2026-05-10,-271.41,shopping,Amazon,expense
+2026-05-10,-138.18,entertainment,Cinema World,expense
+2026-05-10,2424.79,refund,Amazon,income
+2026-05-10,106.09,salary,Employer Ltd,income
+2026-05-10,-10.87,rent,Landlord Ltd,expense
+2026-05-11,-196.1,subscription,Netflix,expense
+2026-05-11,-159.34,transport,Irish Rail,expense
+2026-05-11,280.68,salary,Employer Ltd,income
+2026-05-11,-129.55,dining,Starbucks,expense
+2026-05-11,-63.75,groceries,Lidl,expense
+2026-05-12,-291.06,subscription,Netflix,expense
+2026-05-12,187.94,freelance,Client Payment,income
+2026-05-12,1366.62,refund,Tesco,income
+2026-05-14,-19.74,groceries,Tesco,expense
+2026-05-14,1507.87,refund,Amazon,income
+2026-05-15,392.15,freelance,Client Payment,income
+2026-05-15,-113.08,shopping,Amazon,expense
+2026-05-15,-179.38,utilities,Electric Ireland,expense
+2026-05-15,1093.9,freelance,Client Payment,income
+2026-05-16,-157.95,shopping,Amazon,expense
+2026-05-16,-115.5,groceries,Aldi,expense
+2026-05-16,2247.08,refund,Tesco,income
+2026-05-17,-287.85,entertainment,Cinema World,expense
+2026-05-17,-285.98,entertainment,Cinema World,expense
+2026-05-17,-251.61,utilities,Electric Ireland,expense
+2026-05-19,-69.92,utilities,Eir,expense
+2026-05-19,-157.81,groceries,Lidl,expense
+2026-05-20,-161.67,groceries,Lidl,expense
+2026-05-22,349.17,salary,Employer Ltd,income
+2026-05-22,-71.09,utilities,Electric Ireland,expense
+2026-05-23,1472.44,salary,Employer Ltd,income
+2026-05-24,1165.29,refund,Tesco,income
+2026-05-24,-49.73,entertainment,Cinema World,expense
+2026-05-25,-51.23,entertainment,Cinema World,expense
+2026-05-25,-256.1,transport,Dublin Bus,expense
+2026-05-26,1270.5,freelance,Client Payment,income
+2026-05-26,1141.0,salary,Employer Ltd,income
+2026-05-27,2005.07,refund,Tesco,income
+2026-05-27,-33.45,dining,Starbucks,expense
+2026-05-27,-20.2,dining,Starbucks,expense
+2026-05-27,-87.61,shopping,Amazon,expense
+2026-05-27,-215.08,shopping,Penneys,expense
+2026-05-28,-4.47,shopping,Amazon,expense
+2026-05-28,2185.27,freelance,Client Payment,income
+2026-05-28,1960.62,salary,Employer Ltd,income
+2026-05-28,-20.92,transport,Luas,expense
+2026-05-30,1773.96,freelance,Client Payment,income
+2026-05-31,-56.83,groceries,Lidl,expense
+2026-05-31,658.15,refund,Amazon,income
+2026-05-31,-297.67,transport,Irish Rail,expense
+2026-05-31,-253.9,subscription,Netflix,expense
+2026-06-01,-164.12,utilities,Eir,expense
+2026-06-01,1224.23,salary,Employer Ltd,income
+2026-06-01,911.27,salary,Employer Ltd,income
+2026-06-01,344.4,refund,Amazon,income
+2026-06-01,700.2,freelance,Client Payment,income
+2026-06-02,-45.25,transport,Dublin Bus,expense
+2026-06-02,1305.91,freelance,Client Payment,income
+2026-06-03,1228.81,salary,Employer Ltd,income
+2026-06-04,2176.74,freelance,Client Payment,income
+2026-06-04,-29.83,groceries,Aldi,expense
+2026-06-06,-140.37,subscription,Spotify,expense
+2026-06-07,1601.22,salary,Employer Ltd,income
+2026-06-07,1277.55,refund,Tesco,income
+2026-06-07,-235.37,groceries,Tesco,expense
+2026-06-08,-41.98,transport,Dublin Bus,expense
+2026-06-09,274.38,salary,Employer Ltd,income
+2026-06-09,-278.54,groceries,Tesco,expense
+2026-06-09,221.33,salary,Employer Ltd,income
+2026-06-09,506.77,salary,Employer Ltd,income
+2026-06-09,-106.77,shopping,Amazon,expense
+2026-06-09,2011.44,freelance,Client Payment,income
+2026-06-10,-269.78,groceries,Lidl,expense
+2026-06-10,-299.15,dining,Local Cafe,expense
+2026-06-10,-259.67,shopping,Penneys,expense
+2026-06-10,-138.69,entertainment,Cinema World,expense
+2026-06-10,101.11,freelance,Client Payment,income
+2026-06-10,-23.6,entertainment,Cinema World,expense
+2026-06-11,-11.55,groceries,Aldi,expense
+2026-06-11,-143.06,transport,Irish Rail,expense
+2026-06-12,1055.47,refund,Amazon,income
+2026-06-12,-121.16,subscription,Spotify,expense
+2026-06-12,1149.51,freelance,Client Payment,income
+2026-06-13,2469.74,freelance,Client Payment,income
+2026-06-13,-104.54,rent,Landlord Ltd,expense
+2026-06-13,-260.22,shopping,Penneys,expense
+2026-06-14,-120.8,dining,Local Cafe,expense
+2026-06-15,1309.29,salary,Employer Ltd,income
+2026-06-16,-128.99,dining,Starbucks,expense
+2026-06-17,-51.6,utilities,Electric Ireland,expense
+2026-06-18,1533.57,salary,Employer Ltd,income
+2026-06-19,717.14,refund,Tesco,income
+2026-06-19,1526.26,refund,Tesco,income
+2026-06-19,-169.87,subscription,Spotify,expense
+2026-06-20,-200.07,entertainment,Spotify,expense
+2026-06-21,1491.35,salary,Employer Ltd,income
+2026-06-21,-71.13,rent,Landlord Ltd,expense
+2026-06-21,-275.57,rent,Landlord Ltd,expense
+2026-06-21,-71.48,utilities,Electric Ireland,expense
+2026-06-21,1938.73,salary,Employer Ltd,income
+2026-06-23,-183.72,shopping,Amazon,expense
+2026-06-24,-162.22,dining,Starbucks,expense
+2026-06-24,-167.45,transport,Dublin Bus,expense
+2026-06-24,-120.9,transport,Irish Rail,expense
+2026-06-24,-237.21,subscription,Netflix,expense
+2026-06-25,-72.07,entertainment,Cinema World,expense
+2026-06-25,-114.17,subscription,Spotify,expense
+2026-06-27,2178.13,salary,Employer Ltd,income
+2026-06-28,-280.51,utilities,Eir,expense
+2026-06-29,-255.21,dining,Local Cafe,expense
+2026-06-29,-114.55,subscription,Netflix,expense
+2026-06-30,-45.11,groceries,Lidl,expense
+2026-07-01,1640.23,freelance,Client Payment,income
+2026-07-02,-48.71,dining,Starbucks,expense
+2026-07-03,-258.46,groceries,Lidl,expense
+2026-07-03,-188.89,groceries,Tesco,expense
+2026-07-04,1801.56,salary,Employer Ltd,income
+2026-07-04,-78.4,groceries,Aldi,expense
+2026-07-05,492.41,refund,Amazon,income
+2026-07-06,-297.13,transport,Luas,expense
+2026-07-06,-12.02,shopping,Amazon,expense
+2026-07-06,-264.08,groceries,Aldi,expense
+2026-07-06,95.15,freelance,Client Payment,income
+2026-07-06,-90.33,transport,Luas,expense
+2026-07-07,728.35,salary,Employer Ltd,income
+2026-07-07,2261.25,freelance,Client Payment,income
+2026-07-07,-138.33,shopping,Penneys,expense
+2026-07-07,1386.76,salary,Employer Ltd,income
+2026-07-07,305.07,freelance,Client Payment,income
+2026-07-08,-78.0,entertainment,Cinema World,expense
+2026-07-08,-67.1,utilities,Eir,expense
+2026-07-09,390.13,refund,Amazon,income
+2026-07-09,1562.3,freelance,Client Payment,income
+2026-07-09,494.52,refund,Tesco,income
+2026-07-09,-83.88,utilities,Eir,expense
+2026-07-09,-260.93,shopping,Amazon,expense
+2026-07-09,-190.66,transport,Luas,expense
+2026-07-09,1989.37,salary,Employer Ltd,income
+2026-07-09,2377.65,refund,Tesco,income
+2026-07-10,-70.32,groceries,Tesco,expense
+2026-07-10,-109.37,shopping,Penneys,expense
+2026-07-11,-216.28,dining,Local Cafe,expense
+2026-07-11,348.62,freelance,Client Payment,income
+2026-07-11,-173.29,transport,Luas,expense
+2026-07-12,-37.72,transport,Irish Rail,expense
+2026-07-13,-73.4,entertainment,Cinema World,expense
+2026-07-13,-151.84,rent,Landlord Ltd,expense
+2026-07-14,401.68,salary,Employer Ltd,income
+2026-07-14,1938.91,salary,Employer Ltd,income
+2026-07-16,-247.88,dining,Starbucks,expense
+2026-07-16,2250.17,refund,Amazon,income
+2026-07-17,-272.23,dining,Starbucks,expense
+2026-07-17,-20.18,dining,Starbucks,expense
+2026-07-17,-123.1,rent,Landlord Ltd,expense
+2026-07-18,989.85,salary,Employer Ltd,income
+2026-07-18,-58.87,shopping,Penneys,expense
+2026-07-19,-294.07,groceries,Tesco,expense
+2026-07-19,-108.1,dining,Local Cafe,expense
+2026-07-19,-129.37,utilities,Eir,expense
+2026-07-20,1394.08,freelance,Client Payment,income
+2026-07-20,-34.43,rent,Landlord Ltd,expense
+2026-07-21,-212.11,utilities,Eir,expense
+2026-07-22,-69.47,dining,Starbucks,expense
+2026-07-22,-20.28,entertainment,Cinema World,expense
+2026-07-23,145.46,freelance,Client Payment,income
+2026-07-23,1563.73,freelance,Client Payment,income
+2026-07-24,-216.9,dining,Local Cafe,expense
+2026-07-24,-183.19,groceries,Aldi,expense
+2026-07-25,1782.1,salary,Employer Ltd,income
+2026-07-25,236.69,freelance,Client Payment,income
+2026-07-25,-191.12,utilities,Eir,expense
+2026-07-26,1032.09,freelance,Client Payment,income
+2026-07-26,-180.69,utilities,Electric Ireland,expense
+2026-07-27,2052.38,freelance,Client Payment,income
+2026-07-27,2088.73,freelance,Client Payment,income
+2026-07-27,-98.05,shopping,Amazon,expense
+2026-07-27,-136.48,groceries,Tesco,expense
+2026-07-27,598.43,freelance,Client Payment,income
+2026-07-30,1027.11,salary,Employer Ltd,income
+2026-08-01,-201.26,transport,Irish Rail,expense
+2026-08-01,1321.7,salary,Employer Ltd,income
+2026-08-02,1014.97,freelance,Client Payment,income
+2026-08-02,-163.31,utilities,Eir,expense
+2026-08-02,-164.5,shopping,Penneys,expense
+2026-08-03,365.76,refund,Amazon,income
+2026-08-03,-26.3,rent,Landlord Ltd,expense
+2026-08-03,-179.07,shopping,Penneys,expense
+2026-08-04,-225.9,transport,Dublin Bus,expense
+2026-08-04,1538.51,freelance,Client Payment,income
+2026-08-04,-163.94,subscription,Spotify,expense
+2026-08-05,-220.73,shopping,Amazon,expense
+2026-08-05,-49.62,shopping,Penneys,expense
+2026-08-05,-164.34,entertainment,Spotify,expense
+2026-08-05,-166.96,dining,Local Cafe,expense
+2026-08-06,-94.41,transport,Irish Rail,expense
+2026-08-06,-16.94,dining,Local Cafe,expense
+2026-08-06,-120.99,shopping,Penneys,expense
+2026-08-06,2395.44,refund,Tesco,income
+2026-08-07,-108.54,groceries,Tesco,expense
+2026-08-07,1442.87,salary,Employer Ltd,income
+2026-08-08,-245.28,dining,Starbucks,expense
+2026-08-08,1472.86,salary,Employer Ltd,income
+2026-08-08,-66.29,rent,Landlord Ltd,expense
+2026-08-08,1862.78,refund,Amazon,income
+2026-08-09,-246.3,subscription,Spotify,expense
+2026-08-09,-70.91,utilities,Eir,expense
+2026-08-09,-255.88,utilities,Eir,expense
+2026-08-10,-141.31,rent,Landlord Ltd,expense
+2026-08-10,1560.79,freelance,Client Payment,income
+2026-08-11,-106.23,shopping,Penneys,expense
+2026-08-12,622.34,freelance,Client Payment,income
+2026-08-13,-240.56,dining,Starbucks,expense
+2026-08-13,-146.68,dining,Starbucks,expense
+2026-08-13,2280.33,salary,Employer Ltd,income
+2026-08-13,-61.15,utilities,Electric Ireland,expense
+2026-08-13,-271.94,rent,Landlord Ltd,expense
+2026-08-14,-177.36,dining,Local Cafe,expense
+2026-08-15,-297.66,subscription,Spotify,expense
+2026-08-15,-102.47,subscription,Netflix,expense
+2026-08-16,-178.21,rent,Landlord Ltd,expense
+2026-08-16,1965.39,salary,Employer Ltd,income
+2026-08-17,-177.36,transport,Dublin Bus,expense
+2026-08-17,918.82,refund,Amazon,income
+2026-08-17,2063.56,salary,Employer Ltd,income
+2026-08-18,-201.28,dining,Local Cafe,expense
+2026-08-19,1293.65,refund,Tesco,income
+2026-08-19,-13.06,entertainment,Spotify,expense
+2026-08-19,-284.69,entertainment,Cinema World,expense
+2026-08-19,-157.09,subscription,Spotify,expense
+2026-08-21,-12.38,transport,Irish Rail,expense
+2026-08-21,385.37,freelance,Client Payment,income
+2026-08-21,-137.18,rent,Landlord Ltd,expense
+2026-08-21,-242.55,shopping,Amazon,expense
+2026-08-21,-205.94,transport,Irish Rail,expense
+2026-08-22,508.26,salary,Employer Ltd,income
+2026-08-22,-93.49,shopping,Amazon,expense
+2026-08-22,-286.71,groceries,Lidl,expense
+2026-08-22,286.86,freelance,Client Payment,income
+2026-08-24,-80.49,rent,Landlord Ltd,expense
+2026-08-24,1487.76,refund,Tesco,income
+2026-08-24,-38.09,groceries,Aldi,expense

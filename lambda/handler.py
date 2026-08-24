@@ -1,6 +1,9 @@
 import boto3
 import pandas as pd
 from io import StringIO
+from urllib.parse import unquote_plus
+import os
+
 
 s3 = boto3.client("s3")
 
@@ -18,19 +21,24 @@ def clean_transactions(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def lambda_handler(event, context):
-    raw_bucket = event['Records'][0]['s3']['bucket']['name']
-    raw_key = event['Records'][0]['s3']['object']['key']
 
+    raw_bucket = event['Records'][0]['s3']['bucket']['name']
+    raw_key = unquote_plus(event["Records"][0]["s3"]["object"]["key"])
     obj = s3.get_object(Bucket=raw_bucket, Key=raw_key)
     raw_df = pd.read_csv(obj['Body'])
 
     cleaned_df = clean_transactions(raw_df)
 
-    processed_bucket = raw_bucket.replace("raw", "processed")
+
+    PROCESSED_BUCKET = os.environ.get("PROCESSED_BUCKET")
+    if not PROCESSED_BUCKET:
+        raise RuntimeError("Missing required environment variable: PROCESSED_BUCKET")
+
+    
     processed_key = raw_key.replace(".csv", "_cleaned.csv")
 
     buffer = StringIO()
     cleaned_df.to_csv(buffer, index=False)
-    s3.put_object(Bucket=processed_bucket, Key=processed_key, Body=buffer.getvalue())
+    s3.put_object(Bucket=PROCESSED_BUCKET, Key=processed_key, Body=buffer.getvalue())
 
     return {"statusCode": 200, "rows_processed": len(cleaned_df)}
