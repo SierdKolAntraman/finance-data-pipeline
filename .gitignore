@@ -4,3 +4,5 @@ __pycache__/
 .env
 *.pem
 sample_data/*.csv
+aws/
+awscliv2.zip
