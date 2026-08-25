@@ -1,0 +1,17 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ReadRawTransactions",
+      "Effect": "Allow",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::civan-finance-raw-6128/*"
+    },
+    {
+      "Sid": "WriteProcessedTransactions",
+      "Effect": "Allow",
+      "Action": "s3:PutObject",
+      "Resource": "arn:aws:s3:::civan-finance-processed-6128/*"
+    }
+  ]
+}
