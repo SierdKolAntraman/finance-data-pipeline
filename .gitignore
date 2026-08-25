@@ -3,3 +3,9 @@ __pycache__/
 *.py[cod]
 .env
 .env.*
+__pycache__/
+*.pyc
+.env
+venv/
+*.zip
+/tmp/

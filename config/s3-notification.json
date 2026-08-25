@@ -1,0 +1,16 @@
+{
+  "LambdaFunctionConfigurations": [
+    {
+      "Id": "ProcessIncomingCsv",
+      "LambdaFunctionArn": "arn:aws:lambda:eu-west-1:078723406128:function:finance-clean-transactions",
+      "Events": ["s3:ObjectCreated:*"],
+      "Filter": {
+        "Key": {
+          "FilterRules": [
+            {"Name": "suffix", "Value": ".csv"}
+          ]
+        }
+      }
+    }
+  ]
+}
